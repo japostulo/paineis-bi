@@ -1,0 +1,8 @@
+{
+  "name": "paineis-bi",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1",
+    "puppeteer": "^10.2.0"
+  }
+}
